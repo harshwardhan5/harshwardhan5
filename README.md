@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 # Hi there, I'm Kumar Harshwardhan 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-kumar--hrshwrdhn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumar-hrshwrdhn)](https://www.linkedin.com/in/kumar-hrshwrdhn)
-[![GitHub Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=github&logoColor=white&link=http://portfolio.github.io)]((https://kumarharshwardhan.vercel.app/))
+[![GitHub Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=github&logoColor=white&link=http://portfolio.github.io)](https://kumarharshwardhan.vercel.app/)
 [![HackerRank Badge](https://img.shields.io/badge/-harshcuber-brightgreen?style=flat-square&logo=hackerrank&logoColor=white&link=https://hackerrank.com/profile/harshcuber)](https://hackerrank.com/profile/harshcuber)
 [![Gmail Badge](https://img.shields.io/badge/-kumarhrshwrdhn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kumarhrshwrdhn@gmail.com)](mailto:kumarhrshwrdhn@gmail.com)
 
