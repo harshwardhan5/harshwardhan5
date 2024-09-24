@@ -30,7 +30,7 @@ I love working on innovative projects and constantly improving my skills.
   Dec 2021 - Aug 2025
 
 - **Sarla Birla Public School, CBSE 12th**  
-  Grade: 84%  
+  Grade: 86%  
   Apr 2021 - Aug 2020
 
 ## 💼 Experience
