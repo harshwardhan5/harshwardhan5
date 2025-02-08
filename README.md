@@ -26,7 +26,7 @@ I love working on innovative projects and constantly improving my skills.
 ## 👨‍🎓 Education
 - **Birla Institute of Technology, Mesra**  
   B.Tech in Information Technology  
-  GPA: 7.44 / 10.0 (till 6th sem)  
+  GPA: 7.44 / 10.0 (till 7th sem)  
   Dec 2021 - Aug 2025
 
 - **Sarla Birla Public School, CBSE 12th**  
